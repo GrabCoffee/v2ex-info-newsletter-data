@@ -3,8 +3,13 @@
 
 ---
 
-### 数据来源
-数据来源于 [v2ex-info-data](https://data.v2ex.info)，由 [@JoeJoeJoe](https://www.v2ex.com/member/JoeJoeJoe) 提供。
+### 订阅
+
+日报地址: [https://info.v2ex.pro/](https://info.v2ex.pro/)
+
+日报Rss订阅地址: [点我订阅](https://info.v2ex.pro/rss.xml)
+
+TG 机器人订阅: [点我订阅](https://t.me/hellov2exnews_bot)
 
 ### 数据格式
 数据以 JSON 格式存储，每条记录字段描述如下：
@@ -85,3 +90,7 @@ solana_addresses_removed.json {
     "removed_at": "2025-11-07 18:30:12" // 记录移除时间
 }
 ```
+---
+
+数据来源于 [v2ex-info-data](https://data.v2ex.info)，由 [@JoeJoeJoe](https://www.v2ex.com/member/JoeJoeJoe) 提供。
+
