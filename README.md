@@ -37,7 +37,9 @@ hodl_snapshots.json {
     "price_change_24h": -1.7835432672931189, // V2EX 代币24小时价格变化百分比
     "btc_price": 101634.025, // 比特币当前价格（美元）
     "sol_price": 156.445, // Solana 当前价格（美元）
-    "pump_price": 0.003682 // PUMP 代币当前价格（美元）
+    "pump_price": 0.003682, // PUMP 代币当前价格（美元）
+    "main_amm_v2ex_amount": 53280441.16812, // 主LP里V2EX的数量
+    "main_amm_sol_amount": 1070.747336419 // 主LP里SOL的数量
 }
 
 /// 持币地址变化记录, 每30分钟抓取一次, 如果有变化则新增一条记录
