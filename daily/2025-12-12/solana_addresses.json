@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2,
+    "owner_address": "CtxHhwboVTtRf1kC4Zwfz8Zf8bNW78N2uuR3oZX5VFKb",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "9kVzmDDLpqQy7Y1b24y9GviqUgawLbrP8bKUog1SsWnA",
+    "hold_rank": 2,
+    "hold_amount": 54743744.934261,
+    "decimals": 6,
+    "rank_delta": 0,
+    "hold_percentage": 5.4743744934261,
+    "checked_at": "2025-12-12 23:31:12",
+    "amount_delta": -308885.835023
+  },
+  {
+    "id": 29,
+    "owner_address": "AK6uWWUpB8SsG4bKiPuCKmX8W8chRk9ezZbojMHVDwGF",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "4EZ8E56Hc1cNWgqwWrq5VxxFmuJYEKdQnVpmFE58fdKN",
+    "hold_rank": 13,
+    "hold_amount": 3315803.413983,
+    "decimals": 6,
+    "rank_delta": 0,
+    "hold_percentage": 0.3315803413983,
+    "checked_at": "2025-12-12 00:01:17",
+    "amount_delta": 0
+  },
+  {
+    "id": 15,
+    "owner_address": "EcJatnQgx4WTLxWFjNiuzQUTZqahpJU88XPuAQpwXmR2",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "4gsYaCSvSVRtB2sjYerx96LywpJotfSkF5d98XjHx2Va",
+    "hold_rank": 16,
+    "hold_amount": 2400000.295354,
+    "decimals": 6,
+    "rank_delta": 0,
+    "hold_percentage": 0.2400000295354,
+    "checked_at": "2025-12-12 00:31:14",
+    "amount_delta": 0
+  }
+]
