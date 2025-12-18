@@ -2,6 +2,9 @@
 日报数据
 
 ---
+### 在线查看工具
+
+[https://data.v2ex.pro](https://data.v2ex.pro)
 
 ### 订阅
 
