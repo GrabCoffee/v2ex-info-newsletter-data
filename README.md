@@ -91,6 +91,38 @@ solana_addresses_removed.json {
     "rank_delta": 0, // 排名变化
     "removed_at": "2025-11-07 18:30:12" // 记录移除时间
 }
+
+/// LP地址
+lp.json {
+  "CtxHhwboVTtRf1kC4Zwfz8Zf8bNW78N2uuR3oZX5VFKb": {
+    "name": "Pump.fun AMM (V2EX-WSOL) Pool",
+    "imageUrl": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f737461746963732e736f6c7363616e2e696f2f736f6c7363616e2d696d672f646566695f6170705f70756d66756e2e706e67"
+  },
+  "7j8RCpqZJzQbCwzPPaDWpoHa9mFx7GL2Km4Fsfws7TKG": {
+    "name": "Meteora (V2EX-WSOL) Market",
+    "imageUrl": "https://statics.solscan.io/ex-img/Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB.svg"
+  },
+  "ApqLwCXhsN2JVz3BXdkkwEn6n7BHQeMbxJmv6m43sVXz": {
+    "name": "Meteora (V2EX-cbBTC) Market",
+    "imageUrl": "https://statics.solscan.io/ex-img/Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB.svg"
+  },
+  "71WiarXkzuaqiniQFTFj9pHVfh34avoQTTcAgbYmTY5M": {
+    "name": "Meteora (V2EX-WSOL) Market",
+    "imageUrl": "https://statics.solscan.io/ex-img/Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB.svg"
+  },
+  "D4MjzBu1GxzEiUPE97J2Enc1XJ6xaNLS6CZCAt2af1Hj": {
+    "name": "Meteora (V2EX-USDT) Market",
+    "imageUrl": "https://statics.solscan.io/ex-img/Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB.svg"
+  },
+  "4RMG2c3kBf3Qirt4mtgqLbsxLDitwWmE3uKMgu5jMjsm": {
+    "name": "Meteora (V2EX-USDC) Market",
+    "imageUrl": "https://statics.solscan.io/ex-img/Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB.svg"
+  },
+  "AK6uWWUpB8SsG4bKiPuCKmX8W8chRk9ezZbojMHVDwGF": {
+    "name": "Meteora (V2EX-PUMP) Market",
+    "imageUrl": "https://statics.solscan.io/ex-img/Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB.svg"
+  }
+}
 ```
 ---
 
