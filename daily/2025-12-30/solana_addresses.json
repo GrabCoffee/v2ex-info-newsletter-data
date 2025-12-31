@@ -60,21 +60,6 @@
     "amount_delta": 0
   },
   {
-    "id": 84,
-    "owner_address": "GuDPvXrmiCyFS1VTgm3dsEfPcuQ2NZZjZemCctgpx6wn",
-    "v2ex_username": null,
-    "avatar_url": null,
-    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
-    "token_account_address": "CaawDgm8rrrPQJsaEV6H1GKd72xbVcVpAEvXhhaFGnnD",
-    "hold_rank": 86,
-    "hold_amount": 435984.523248,
-    "decimals": 6,
-    "rank_delta": 0,
-    "hold_percentage": 0.0435984523248,
-    "checked_at": "2025-12-30 13:00:50",
-    "amount_delta": 0
-  },
-  {
     "id": 183950,
     "owner_address": "61obMmbNBcM9BzpwgQ973ByN6ur3uoAoyKwqvr1CTAwH",
     "v2ex_username": null,
