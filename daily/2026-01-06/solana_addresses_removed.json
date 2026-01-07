@@ -1,0 +1,72 @@
+[
+  {
+    "id": 90,
+    "owner_address": "C3nLTNMK6Ao1s3J1CQhv8GbT3NoMmifWoi9PGEcYd9hP",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "2VXcgzpo2xtXCPjJgeDLetRjRyxiXgVTbUGFB5oyafho",
+    "hold_rank": 37,
+    "hold_amount": 1019800.506342,
+    "decimals": 6,
+    "hold_percentage": 0.1019800506342,
+    "rank_delta": -1,
+    "removed_at": "2026-01-06 12:00:19"
+  },
+  {
+    "id": 86,
+    "owner_address": "TgbaCkkiTzKkmMFvi4GHZpqPRXD1aArzotdiCa4Yfgt",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "K8hBSuoJAwpLno36FGdVW3B6bjam9SfgindsvSeeAuE",
+    "hold_rank": 113,
+    "hold_amount": 305816.586599,
+    "decimals": 6,
+    "hold_percentage": 0.0305816586599,
+    "rank_delta": 0,
+    "removed_at": "2026-01-06 00:30:33"
+  },
+  {
+    "id": 89,
+    "owner_address": "HaFtVFryQXjMq6G4EoxjGrQNgwfhMect2YvP5KzxKCYr",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "AVhBe6BPf1puqFEuHCtgEKuurYdDVQCPaoBHJ92bHTWj",
+    "hold_rank": 120,
+    "hold_amount": 291305.655867,
+    "decimals": 6,
+    "hold_percentage": 0.029130565586699998,
+    "rank_delta": -2,
+    "removed_at": "2026-01-06 02:30:44"
+  },
+  {
+    "id": 88,
+    "owner_address": "8f6AxNonTUyzkzz7CRhADiuUzN3PxWDgF3a2RsS2Qn6v",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "7yjrKep5dNS2HxMAxKeq3SGnoPX5gsd8T8WueEAjH3kC",
+    "hold_rank": 120,
+    "hold_amount": 290442.29198,
+    "decimals": 6,
+    "hold_percentage": 0.029044229198,
+    "rank_delta": -1,
+    "removed_at": "2026-01-06 02:00:54"
+  },
+  {
+    "id": 87,
+    "owner_address": "6jKE2n698gYcPocgypm8ut9cahVAvKsMJR6ZEaacNwTC",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "4F3wi5QZsFpvMZMR9agUtVgYfEyTw4pGACtUf32hjbqE",
+    "hold_rank": 120,
+    "hold_amount": 282184.058837,
+    "decimals": 6,
+    "hold_percentage": 0.0282184058837,
+    "rank_delta": 0,
+    "removed_at": "2026-01-06 01:00:32"
+  }
+]
