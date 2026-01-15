@@ -1,0 +1,16 @@
+[
+  {
+    "id": 110,
+    "owner_address": "7Wt45qk5BqPgm2fV2GfH6rSbg4b94otHNqk3chWnELeA",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "2qA5zBG5ZyDrmhKJizwfbfstDnV1HmHh2K8g7YmQumch",
+    "hold_rank": 44,
+    "hold_amount": 954220.752383,
+    "decimals": 6,
+    "hold_percentage": 0.0954220752383,
+    "rank_delta": 0,
+    "removed_at": "2026-01-14 00:30:26"
+  }
+]
