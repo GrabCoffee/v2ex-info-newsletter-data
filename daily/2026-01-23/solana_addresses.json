@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2,
+    "owner_address": "CtxHhwboVTtRf1kC4Zwfz8Zf8bNW78N2uuR3oZX5VFKb",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "9kVzmDDLpqQy7Y1b24y9GviqUgawLbrP8bKUog1SsWnA",
+    "hold_rank": 2,
+    "hold_amount": 48359490.782453,
+    "decimals": 6,
+    "rank_delta": 0,
+    "hold_percentage": 4.8359490782453,
+    "checked_at": "2026-01-23 22:00:40",
+    "amount_delta": 38710.01305
+  },
+  {
+    "id": 293405,
+    "owner_address": "DdGV4neesEuQUS5cX3x9A9An5i6BBJkPhHEN6PA3aRkf",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "GyHpdW7ei2g33oex16ToGfTQB4bPBY4Jfn6Wvd7Kou57",
+    "hold_rank": 5,
+    "hold_amount": 7730930.824023,
+    "decimals": 6,
+    "rank_delta": 0,
+    "hold_percentage": 0.7730930824022999,
+    "checked_at": "2026-01-23 00:31:00",
+    "amount_delta": 0
+  },
+  {
+    "id": 71,
+    "owner_address": "H5uYBn9MSrMTEz9deLDGBe9eczsfzXjZjX1xVcB6FJgU",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "4KbSRsxHg3Kz9uo6S6NMjb1CY6X8wDPZgwzrg2S9PARy",
+    "hold_rank": 53,
+    "hold_amount": 735323.083091,
+    "decimals": 6,
+    "rank_delta": 0,
+    "hold_percentage": 0.0735323083091,
+    "checked_at": "2026-01-23 00:01:02",
+    "amount_delta": 0
+  },
+  {
+    "id": 489290,
+    "owner_address": "AxdzcVWsVnohfz9muWwuYdcMofGXxuPxU7KjfMojt7zz",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "4EpvpTmbX7GktxRrSAjMcZrTNQHeMG9vUm3NfLx7KgC6",
+    "hold_rank": 117,
+    "hold_amount": 293803.139843,
+    "decimals": 6,
+    "rank_delta": 0,
+    "hold_percentage": 0.0293803139843,
+    "checked_at": "2026-01-23 00:01:02",
+    "amount_delta": 0
+  }
+]
