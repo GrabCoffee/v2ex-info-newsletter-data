@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "owner_address": "CtxHhwboVTtRf1kC4Zwfz8Zf8bNW78N2uuR3oZX5VFKb",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "9kVzmDDLpqQy7Y1b24y9GviqUgawLbrP8bKUog1SsWnA",
+    "hold_rank": 2,
+    "hold_amount": 47949331.458471,
+    "decimals": 6,
+    "rank_delta": 0,
+    "hold_percentage": 4.7949331458471,
+    "checked_at": "2026-01-24 23:01:06",
+    "amount_delta": -410159.323982
+  },
+  {
+    "id": 48,
+    "owner_address": "9kRqdQ5nhiajD47y4cqQzc7PdNK7ovEzPKC5rehAD3hC",
+    "v2ex_username": null,
+    "avatar_url": null,
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": "3NH1uNu3Ag9Pja5PUxMUkTSdxTyNg98fpxMhh6rJxdNR",
+    "hold_rank": 36,
+    "hold_amount": 1093293.217534,
+    "decimals": 6,
+    "rank_delta": 0,
+    "hold_percentage": 0.10932932175340002,
+    "checked_at": "2026-01-24 00:01:24",
+    "amount_delta": 0
+  }
+]
