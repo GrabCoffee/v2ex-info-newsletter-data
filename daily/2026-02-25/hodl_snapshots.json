@@ -13,14 +13,14 @@
     "created_at": "2026-02-25 23:59:54",
     "current_online_users": 1239,
     "peak_online_users": 6679,
-    "holders": 0,
-    "price": 0,
+    "holders": 4786,
+    "price": 0.002492,
     "price_change_24h": 0,
-    "btc_price": 0,
-    "sol_price": 0,
-    "pump_price": 0,
-    "main_amm_v2ex_amount": 0,
-    "main_amm_sol_amount": 0
+    "btc_price": 68275.36,
+    "sol_price": 88.38,
+    "pump_price": 0.0018925,
+    "main_amm_v2ex_amount": 45266285.041119,
+    "main_amm_sol_amount": 1266.86
   },
   {
     "id": 188310,
