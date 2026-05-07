@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-05-07T00:01:42.176Z",
+  "report_date": "2026-05-06",
+  "snapshot_counts": {
+    "solanaAddresses": 2426,
+    "removedAddresses": 0,
+    "addressDetails": 92
+  },
+  "exported_files": [
+    "top50_address_changes.json",
+    "hodl_snapshots.json"
+  ],
+  "omitted_full_snapshots": true,
+  "omit_reason": "Skipped full-day address snapshots in newsletter worker to avoid D1 memory-limit failures."
+}
