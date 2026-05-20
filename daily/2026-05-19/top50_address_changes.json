@@ -1,0 +1,47 @@
+[
+  {
+    "id": 25749,
+    "owner_address": "CtxHhwboVTtRf1kC4Zwfz8Zf8bNW78N2uuR3oZX5VFKb",
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": null,
+    "v2ex_username": "Pump.fun AMM (V2EX-WSOL) Pool",
+    "avatar_url": null,
+    "hold_rank": 2,
+    "hold_amount": 52037463.949052,
+    "decimals": 6,
+    "hold_percentage": 5.2037463949052,
+    "rank_delta": 0,
+    "amount_delta": -89076.316983,
+    "changed_at": "2026-05-19 21:00:19"
+  },
+  {
+    "id": 25744,
+    "owner_address": "7j8RCpqZJzQbCwzPPaDWpoHa9mFx7GL2Km4Fsfws7TKG",
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": null,
+    "v2ex_username": "Meteora (V2EX-WSOL) Market",
+    "avatar_url": null,
+    "hold_rank": 9,
+    "hold_amount": 5030254.97695,
+    "decimals": 6,
+    "hold_percentage": 0.5030254976949999,
+    "rank_delta": 0,
+    "amount_delta": -4458.383008,
+    "changed_at": "2026-05-19 14:00:27"
+  },
+  {
+    "id": 25751,
+    "owner_address": "AK6uWWUpB8SsG4bKiPuCKmX8W8chRk9ezZbojMHVDwGF",
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": null,
+    "v2ex_username": "Meteora (V2EX-PUMP) Market",
+    "avatar_url": null,
+    "hold_rank": 11,
+    "hold_amount": 4933347.218508,
+    "decimals": 6,
+    "hold_percentage": 0.4933347218508,
+    "rank_delta": 0,
+    "amount_delta": -2560.506423,
+    "changed_at": "2026-05-19 23:00:19"
+  }
+]
