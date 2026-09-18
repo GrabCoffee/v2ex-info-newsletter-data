@@ -1,0 +1,17 @@
+[
+  {
+    "id": 34063,
+    "owner_address": "CtxHhwboVTtRf1kC4Zwfz8Zf8bNW78N2uuR3oZX5VFKb",
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": null,
+    "v2ex_username": "Pump.fun AMM (V2EX-WSOL) Pool",
+    "avatar_url": null,
+    "hold_rank": 2,
+    "hold_amount": 50848341.886862,
+    "decimals": 6,
+    "hold_percentage": 5.0848341886862,
+    "rank_delta": 0,
+    "amount_delta": -16121.499287,
+    "changed_at": "2026-09-17 21:30:52"
+  }
+]
