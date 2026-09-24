@@ -1,0 +1,32 @@
+[
+  {
+    "id": 34197,
+    "owner_address": "CtxHhwboVTtRf1kC4Zwfz8Zf8bNW78N2uuR3oZX5VFKb",
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": null,
+    "v2ex_username": "Pump.fun AMM (V2EX-WSOL) Pool",
+    "avatar_url": null,
+    "hold_rank": 2,
+    "hold_amount": 50838315.953105,
+    "decimals": 6,
+    "hold_percentage": 5.0838315953104996,
+    "rank_delta": 0,
+    "amount_delta": -78973.231578,
+    "changed_at": "2026-09-23 22:30:24"
+  },
+  {
+    "id": 34169,
+    "owner_address": "H5uYBn9MSrMTEz9deLDGBe9eczsfzXjZjX1xVcB6FJgU",
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": null,
+    "v2ex_username": "JoeJoeJoe",
+    "avatar_url": null,
+    "hold_rank": 50,
+    "hold_amount": 694627.083091,
+    "decimals": 6,
+    "hold_percentage": 0.0694627083091,
+    "rank_delta": -2,
+    "amount_delta": -10000,
+    "changed_at": "2026-09-23 02:00:26"
+  }
+]
