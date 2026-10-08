@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T00:01:38.107Z",
+  "generated_at": "2026-10-08T08:13:47.995Z",
   "report_date": "2026-10-01",
   "snapshot_counts": {
-    "solanaAddresses": 50,
+    "solanaAddresses": 1,
     "removedAddresses": 2407150,
     "addressDetails": 38
   },
