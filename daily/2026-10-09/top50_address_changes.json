@@ -1,0 +1,62 @@
+[
+  {
+    "id": 37865,
+    "owner_address": "CtxHhwboVTtRf1kC4Zwfz8Zf8bNW78N2uuR3oZX5VFKb",
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": null,
+    "v2ex_username": "Pump.fun AMM (V2EX-WSOL) Pool",
+    "avatar_url": null,
+    "hold_rank": 1,
+    "hold_amount": 51495412.648469,
+    "decimals": 6,
+    "hold_percentage": 5.1495412648469,
+    "rank_delta": 0,
+    "amount_delta": -16887.186913,
+    "changed_at": "2026-10-09 23:31:33"
+  },
+  {
+    "id": 37862,
+    "owner_address": "4JBz4tAKgAmxjDPHHi9HRLj14RsCQJyuCkCFKnpz7B9s",
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": null,
+    "v2ex_username": "Livid",
+    "avatar_url": null,
+    "hold_rank": 3,
+    "hold_amount": 3703830.014122,
+    "decimals": 6,
+    "hold_percentage": 0.3703830014122,
+    "rank_delta": 1,
+    "amount_delta": 819.291343,
+    "changed_at": "2026-10-09 18:31:27"
+  },
+  {
+    "id": 37867,
+    "owner_address": "DFQP8JFeQJcPjJtw35y7f85iUDpucFeeaRVawfgPXioE",
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": null,
+    "v2ex_username": null,
+    "avatar_url": null,
+    "hold_rank": 4,
+    "hold_amount": 496652.409884,
+    "decimals": 6,
+    "hold_percentage": 0.0496652409884,
+    "rank_delta": -1,
+    "amount_delta": 5761.28713,
+    "changed_at": "2026-10-09 23:31:33"
+  },
+  {
+    "id": 37869,
+    "owner_address": "HLnpSz9h2S4hiLQ43rnSD9XkcUThA7B8hQMKmDaiTLcC",
+    "token_address": "9raUVuzeWUk53co63M4WXLWPWE4Xc6Lpn7RS9dnkpump",
+    "token_account_address": null,
+    "v2ex_username": null,
+    "avatar_url": null,
+    "hold_rank": 6,
+    "hold_amount": 424858.573384,
+    "decimals": 6,
+    "hold_percentage": 0.042485857338400004,
+    "rank_delta": -2,
+    "amount_delta": 928.494569,
+    "changed_at": "2026-10-09 23:31:33"
+  }
+]
